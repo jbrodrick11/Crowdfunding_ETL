@@ -20,7 +20,7 @@ The order the tables are created in are also the order in which the data must be
 
 Category
 
-![Category Table](Screenshots/Category Table.png)
+![Category Table](Screenshots/CategoryTable.png)
 
 Screenshots of these populate tables are found in the 'Screenshots' folder in the repository
 
