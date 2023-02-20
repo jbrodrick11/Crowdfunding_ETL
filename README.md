@@ -24,7 +24,7 @@ Category
 
 Subcategory
 
-![Subcategory Table](ScreenshotsSubcategoryTable.png)
+![Subcategory Table](Screenshots/SubcategoryTable.png)
 
 Contacts
 
