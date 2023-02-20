@@ -6,9 +6,7 @@ This Project asked for 4 DataFrames to be created, exported to csv files, and th
 
 -REQUIRED DEPENDANCIES-
 
--Pandas
--Numpy
--Openpyxl (pip install openpyxl)
+Pandas, Numpy and Openpyxl (pip install openpyxl)
 
 -WORKING NOTES-
 
