@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
 
 -SUMMARY-
+
 This Project asked for 4 DataFrames to be created, exported to csv files, and then uploaded to a database, with a focus on ETL methods. 
 
 EXTRACT
@@ -13,11 +14,13 @@ LOAD
 -Export DataFrames as .csv files and load directly into a Postgres SQL Database
 
 -REQUIRED DEPENDANCIES-
+
 -Pandas 
 -Numpy 
 -Openpyxl (pip install openpyxl)
 
 -WORKING NOTES-
+
 The .ipynb file contains relevant comments and can be run sequentially to import the required .xlsx files and convert them to DataFrames. 
 
 Each DataFrame is then converted to a .csv file and saved in the /Resources folder. 
@@ -40,5 +43,6 @@ These screenshots are also found in the 'Screenshots' folder in the repository
 From here the data can be manipulated/references as required from the SWQL Database. 
 
 -OTHER COMMENTS-
+
 -Attempted to push more regularly to ensure constant trail of commit history in repository.
 -Files created with names provided in Starter Code file
