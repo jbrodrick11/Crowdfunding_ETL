@@ -19,6 +19,7 @@ The .sql file contains all SQL required to create the database, and relevant tab
 The order the tables are created in are also the order in which the data must be imported. Four tables are then created. As per the requirements I then imported the four provided .csv files into the relevant tables (Category,Subcategory,Contacts,Campaign). 
 
 Category
+
 ![Category Table](Screenshots/Category Table.png)
 
 Screenshots of these populate tables are found in the 'Screenshots' folder in the repository
