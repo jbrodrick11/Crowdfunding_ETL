@@ -15,8 +15,8 @@ LOAD
 
 -REQUIRED DEPENDANCIES-
 
--Pandas 
--Numpy 
+-Pandas
+-Numpy
 -Openpyxl (pip install openpyxl)
 
 -WORKING NOTES-
