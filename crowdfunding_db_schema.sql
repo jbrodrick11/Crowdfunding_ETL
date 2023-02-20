@@ -1,3 +1,6 @@
+/*Create Database*/
+CREATE DATABASE crowdfunding_db;
+
 /*Create Category table*/
 CREATE TABLE category (
 	category_id VARCHAR(30) NOT NULL PRIMARY KEY,
