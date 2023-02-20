@@ -40,4 +40,5 @@ Screenshots of these populate tables are found in the 'Screenshots' folder in th
 -OTHER COMMENTS-
 
 -Attempted to push more regularly to ensure constant trail of commit history in repository.
+
 -Files created with names provided in Starter Code file
