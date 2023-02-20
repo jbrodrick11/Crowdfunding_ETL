@@ -2,22 +2,13 @@
 
 -SUMMARY-
 
-This Project asked for 4 DataFrames to be created, exported to csv files, and then uploaded to a database, with a focus on ETL methods. 
-
-EXTRACT -Pulled data from .xlsx files and converted to Pandas DataFrames
-
-TRANSFORM -Cleaned data in DataFrames, updated datatypes and converted data where required
-
-LOAD -Export DataFrames as .csv files and load directly into a Postgres SQL Database
+This Project asked for 4 DataFrames to be created, exported to csv files, and then uploaded to a database, with a focus on ETL methods. Extract (Pulled data from .xlsx files and converted to Pandas DataFrames), Transform (Cleaned data in DataFrames, updated datatypes and converted data where required), and Load (Export DataFrames as .csv files and load directly into a Postgres SQL Database)
 
 -REQUIRED DEPENDANCIES-
 
 -Pandas
-
 -Numpy
-
 -Openpyxl (pip install openpyxl)
-
 
 -WORKING NOTES-
 
