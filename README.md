@@ -14,6 +14,8 @@ The .ipynb file contains relevant comments and can be run sequentially to import
 
 An ERD is then provided mapping out how the Database should be created using the four .csv files generated from the .ipynb file.
 
+![ERD](Screenshots/crowdfunding_dbERD.png)
+
 The .sql file contains all SQL required to create the database, and relevant tables. When running the code, highlight the first black (CREATE DATABASE) and run it seperate to the remaining SQL to ensure the Database is created correctly.
 
 The order the tables are created in are also the order in which the data must be imported. Four tables are then created. As per the requirements I then imported the four provided .csv files into the relevant tables (Category,Subcategory,Contacts,Campaign). 
