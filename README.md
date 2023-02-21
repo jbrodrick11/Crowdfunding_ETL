@@ -38,6 +38,8 @@ Campaign
 
 Screenshots of these populate tables are found in the 'Screenshots' folder in the repository
 
+-BONUS-
+Added additional .ipynb file (BONUS Regex) completing the export of the contacts.csv file using regex. Pushed to repository before due date, but after initial submission as submitted before being made aware of the bonus componant.
 
 -OTHER COMMENTS-
 
