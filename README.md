@@ -12,7 +12,7 @@ Pandas, Numpy and Openpyxl (pip install openpyxl)
 
 The .ipynb file contains relevant comments and can be run sequentially to import the required .xlsx files and convert them to DataFrames. Each DataFrame is then converted to a .csv file and saved in the /Resources folder. 
 
-An ERD is then provided mapping out how the Database should be created using the four .csv files generated from the .ipynb file.
+An ERD is then provided mapping out how the Database should be created using the four .csv files generated from the .ipynb file. (Found in Screenshots folder)
 
 ![ERD](Screenshots/crowdfunding_dbERD.png)
 
