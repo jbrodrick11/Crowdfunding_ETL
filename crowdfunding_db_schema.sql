@@ -23,7 +23,7 @@ CREATE TABLE contacts (
 	
 /*Create Campaign table*/
 CREATE TABLE campaign (
-	cf_id INTEGER NOT NULL,
+	cf_id INTEGER NOT NULL PRIMARY KEY,
 	contact_id INTEGER NOT NULL REFERENCES contacts(contact_id),
 	company_name VARCHAR(255) NOT NULL,
 	description VARCHAR(255) NOT NULL,
